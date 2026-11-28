@@ -8,6 +8,26 @@ FreshCart provides an interactive online shopping experience, allowing users to 
 
 **[View Live Website](https://sandy-mohamed.github.io/FreshCart-Ecommerce/)**
 
+## 📸 Screenshots
+
+### Home Page
+![FreshCart home page](screenshots/01-home.jpg)
+
+### Products Page
+![All products page](screenshots/02-products.jpg)
+
+### Categories Page
+![All categories page](screenshots/03-categories.jpg)
+
+### Login
+![Login page](screenshots/04-login.jpg)
+
+### Brands Page
+![All brands page](screenshots/05-brands.jpg)
+
+### Register
+![Register page](screenshots/06-register.jpg)
+
 ## ✨ Features
 
 - 🔐 User registration, login, and password recovery
